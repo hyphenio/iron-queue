@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/iron-queue",
+    "name": "hyphenio/iron-queue",
     "description": "IronMQ support for the Laravel queue.",
     "license": "MIT",
     "homepage": "http://laravelcollective.com",
